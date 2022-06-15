@@ -1,4 +1,4 @@
-# programing phrases
+# programmer phrases
 
 | phrase | 中文 | 备注 |
 | ------ | ---- | --- |
